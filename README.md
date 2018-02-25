@@ -1,5 +1,6 @@
-# Python Blockchain to help myself to better understand how the technology works
+# Python Blockchain
 
+#### this is a self study to help myself better understand how blockchain technology works
 
 #### If you would like to test this blockchain, you will need [Postman](https://www.getpostman.com/) or you can use cURL.
 
